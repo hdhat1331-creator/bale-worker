@@ -1,0 +1,7 @@
+name = "ravesh-bot"
+main = "worker.js"
+compatibility_date = "2024-01-01"
+
+[[kv_namespaces]]
+binding = "KV"
+id = "b34f79da77c442089aa55e8501d99959"
